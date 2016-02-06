@@ -1,0 +1,20 @@
+{
+  "name": "angular2-ts-gulp",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Angular2 starter with Gulp, TypeScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claycarpenter/angular2-ts-gulp.git"
+  },
+  "author": "Clay Carpenter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/claycarpenter/angular2-ts-gulp/issues"
+  },
+  "homepage": "https://github.com/claycarpenter/angular2-ts-gulp#readme"
+}
